@@ -1,7 +1,6 @@
 add_op = function (x,y){
   return(x+y)
 }
-<<<<<<< HEAD
 
 mul_op <- function (x,y){
   return(x*y)
@@ -15,5 +14,3 @@ natto_op = function(){
 }
 
 natto_op()
-=======
->>>>>>> parent of f76a2c3 (Added the mul op)
